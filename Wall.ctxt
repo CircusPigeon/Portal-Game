@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=
+comment1.target=Wall()
+comment2.params=c\ xPos\ yPos\ l\ w\ t\ k
+comment2.target=void\ set(java.awt.Color,\ int,\ int,\ int,\ int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ move()
+numComments=4
